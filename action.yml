@@ -1,4 +1,4 @@
-name: 'Veracode Policy Scan changeforTest'
+name: 'Veracode Policy Scan changeforTest1'
 description: 'Upload files to Veracode and start a static policy scan.'
 inputs:
   vid:
