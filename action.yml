@@ -38,7 +38,7 @@ inputs:
   failbuild:
     description: 'Fail the build if the scan fails'
     required: false
-    default: true
+    default: true  
 
 runs:
   using: 'node16'
